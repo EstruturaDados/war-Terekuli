@@ -27,7 +27,24 @@ Cor do Exercito: Verde
     Nome do Territorio: Peru
     Cor do Exercito: Branco
     Numero de Tropas: 5
-        
+
+    Nome do Territorio: Alemanha
+    Cor do Exercito: Vermelho
+    Numero de Tropas: 2
+
+    Nome do Territorio: Mexico
+    Cor do Exercito: Amarelo
+    Numero de Tropas: 4
+
+    Nome do Territorio: Franca
+    Cor do Exercito: Laranja
+    Numero de Tropas: 3
+
+    Nome do Territorio: Canadá
+    Cor do Exercito: Cinza
+    Numero de Tropas: 3
+    
+
 // --- Constantes Globais ---
 // Definem valores fixos para o número de territórios, missões e tamanho máximo de strings, facilitando a manutenção.
 
