@@ -15,7 +15,19 @@
 // ============================================================================
 
 // Inclusão das bibliotecas padrão necessárias para entrada/saída, alocação de memória, manipulação de strings e tempo.
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
 
+Nome do Territorio: Brasil
+Cor do Exercito: Verde
+    Numero de Tropas: 3
+
+    Nome do Territorio: Peru
+    Cor do Exercito: Branco
+    Numero de Tropas: 5
+        
 // --- Constantes Globais ---
 // Definem valores fixos para o número de territórios, missões e tamanho máximo de strings, facilitando a manutenção.
 
